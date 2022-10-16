@@ -1,6 +1,6 @@
 # Hastane Randevu Takip Sistemi Web Sitesi ASP.NET  (Hospital Appointment Tracking System )
 
-- Bu web Sitesi ASP.NET Kullanılarak Yapılmıştır. Bootsrap,HTML,Css Eklentileri Mevcuttur.
+- Bu Web Sitesi C# Prpgramlama Dili Kullanılarak Yapılmıştır. Bootsrap,HTML,Css Eklentileri Mevcuttur.
 
 
 # How to use step ?  Kullanım Adımı
