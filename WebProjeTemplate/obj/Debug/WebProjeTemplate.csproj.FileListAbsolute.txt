@@ -1,0 +1,237 @@
+C:\Users\Emre_\Documents\Visual Studio 2015\Projects\WebProje\WebProjeTemplate\WebProjeTemplate\bin\ApplicationInsights.config
+C:\Users\Emre_\Documents\Visual Studio 2015\Projects\WebProje\WebProjeTemplate\WebProjeTemplate\bin\roslyn\csc.exe
+C:\Users\Emre_\Documents\Visual Studio 2015\Projects\WebProje\WebProjeTemplate\WebProjeTemplate\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Emre_\Documents\Visual Studio 2015\Projects\WebProje\WebProjeTemplate\WebProjeTemplate\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Emre_\Documents\Visual Studio 2015\Projects\WebProje\WebProjeTemplate\WebProjeTemplate\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Emre_\Documents\Visual Studio 2015\Projects\WebProje\WebProjeTemplate\WebProjeTemplate\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Emre_\Documents\Visual Studio 2015\Projects\WebProje\WebProjeTemplate\WebProjeTemplate\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Emre_\Documents\Visual Studio 2015\Projects\WebProje\WebProjeTemplate\WebProjeTemplate\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Emre_\Documents\Visual Studio 2015\Projects\WebProje\WebProjeTemplate\WebProjeTemplate\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Emre_\Documents\Visual Studio 2015\Projects\WebProje\WebProjeTemplate\WebProjeTemplate\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Emre_\Documents\Visual Studio 2015\Projects\WebProje\WebProjeTemplate\WebProjeTemplate\bin\roslyn\vbc.exe
+C:\Users\Emre_\Documents\Visual Studio 2015\Projects\WebProje\WebProjeTemplate\WebProjeTemplate\bin\roslyn\VBCSCompiler.exe
+C:\Users\Emre_\Documents\Visual Studio 2015\Projects\WebProje\WebProjeTemplate\WebProjeTemplate\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Emre_\Documents\Visual Studio 2015\Projects\WebProje\WebProjeTemplate\WebProjeTemplate\bin\WebProjeTemplate.dll.config
+C:\Users\Emre_\Documents\Visual Studio 2015\Projects\WebProje\WebProjeTemplate\WebProjeTemplate\bin\WebProjeTemplate.dll
+C:\Users\Emre_\Documents\Visual Studio 2015\Projects\WebProje\WebProjeTemplate\WebProjeTemplate\bin\WebProjeTemplate.pdb
+C:\Users\Emre_\Documents\Visual Studio 2015\Projects\WebProje\WebProjeTemplate\WebProjeTemplate\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Emre_\Documents\Visual Studio 2015\Projects\WebProje\WebProjeTemplate\WebProjeTemplate\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Emre_\Documents\Visual Studio 2015\Projects\WebProje\WebProjeTemplate\WebProjeTemplate\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Emre_\Documents\Visual Studio 2015\Projects\WebProje\WebProjeTemplate\WebProjeTemplate\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Emre_\Documents\Visual Studio 2015\Projects\WebProje\WebProjeTemplate\WebProjeTemplate\bin\Microsoft.AI.Web.dll
+C:\Users\Emre_\Documents\Visual Studio 2015\Projects\WebProje\WebProjeTemplate\WebProjeTemplate\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Emre_\Documents\Visual Studio 2015\Projects\WebProje\WebProjeTemplate\WebProjeTemplate\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Emre_\Documents\Visual Studio 2015\Projects\WebProje\WebProjeTemplate\WebProjeTemplate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Emre_\Documents\Visual Studio 2015\Projects\WebProje\WebProjeTemplate\WebProjeTemplate\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Emre_\Documents\Visual Studio 2015\Projects\WebProje\WebProjeTemplate\WebProjeTemplate\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Emre_\Documents\Visual Studio 2015\Projects\WebProje\WebProjeTemplate\WebProjeTemplate\bin\Microsoft.AI.Web.xml
+C:\Users\Emre_\Documents\Visual Studio 2015\Projects\WebProje\WebProjeTemplate\WebProjeTemplate\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Emre_\Documents\Visual Studio 2015\Projects\WebProje\WebProjeTemplate\WebProjeTemplate\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Emre_\Documents\Visual Studio 2015\Projects\WebProje\WebProjeTemplate\WebProjeTemplate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Emre_\Documents\Visual Studio 2015\Projects\WebProje\WebProjeTemplate\WebProjeTemplate\obj\Debug\WebProjeTemplate.csprojResolveAssemblyReference.cache
+C:\Users\Emre_\Documents\Visual Studio 2015\Projects\WebProje\WebProjeTemplate\WebProjeTemplate\obj\Debug\WebProjeTemplate.dll
+C:\Users\Emre_\Documents\Visual Studio 2015\Projects\WebProje\WebProjeTemplate\WebProjeTemplate\obj\Debug\WebProjeTemplate.pdb
+C:\Users\Emre_\Desktop\ClassDuzenlemeleri\WebProjeTemplate\bin\ApplicationInsights.config
+C:\Users\Emre_\Desktop\ClassDuzenlemeleri\WebProjeTemplate\bin\roslyn\csc.exe
+C:\Users\Emre_\Desktop\ClassDuzenlemeleri\WebProjeTemplate\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Emre_\Desktop\ClassDuzenlemeleri\WebProjeTemplate\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Emre_\Desktop\ClassDuzenlemeleri\WebProjeTemplate\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Emre_\Desktop\ClassDuzenlemeleri\WebProjeTemplate\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Emre_\Desktop\ClassDuzenlemeleri\WebProjeTemplate\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Emre_\Desktop\ClassDuzenlemeleri\WebProjeTemplate\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Emre_\Desktop\ClassDuzenlemeleri\WebProjeTemplate\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Emre_\Desktop\ClassDuzenlemeleri\WebProjeTemplate\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Emre_\Desktop\ClassDuzenlemeleri\WebProjeTemplate\bin\roslyn\vbc.exe
+C:\Users\Emre_\Desktop\ClassDuzenlemeleri\WebProjeTemplate\bin\roslyn\VBCSCompiler.exe
+C:\Users\Emre_\Desktop\ClassDuzenlemeleri\WebProjeTemplate\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Emre_\Desktop\ClassDuzenlemeleri\WebProjeTemplate\bin\WebProjeTemplate.dll.config
+C:\Users\Emre_\Desktop\ClassDuzenlemeleri\WebProjeTemplate\bin\WebProjeTemplate.dll
+C:\Users\Emre_\Desktop\ClassDuzenlemeleri\WebProjeTemplate\bin\WebProjeTemplate.pdb
+C:\Users\Emre_\Desktop\ClassDuzenlemeleri\WebProjeTemplate\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Emre_\Desktop\ClassDuzenlemeleri\WebProjeTemplate\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Emre_\Desktop\ClassDuzenlemeleri\WebProjeTemplate\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Emre_\Desktop\ClassDuzenlemeleri\WebProjeTemplate\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Emre_\Desktop\ClassDuzenlemeleri\WebProjeTemplate\bin\Microsoft.AI.Web.dll
+C:\Users\Emre_\Desktop\ClassDuzenlemeleri\WebProjeTemplate\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Emre_\Desktop\ClassDuzenlemeleri\WebProjeTemplate\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Emre_\Desktop\ClassDuzenlemeleri\WebProjeTemplate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Emre_\Desktop\ClassDuzenlemeleri\WebProjeTemplate\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Emre_\Desktop\ClassDuzenlemeleri\WebProjeTemplate\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Emre_\Desktop\ClassDuzenlemeleri\WebProjeTemplate\bin\Microsoft.AI.Web.xml
+C:\Users\Emre_\Desktop\ClassDuzenlemeleri\WebProjeTemplate\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Emre_\Desktop\ClassDuzenlemeleri\WebProjeTemplate\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Emre_\Desktop\ClassDuzenlemeleri\WebProjeTemplate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Emre_\Desktop\ClassDuzenlemeleri\WebProjeTemplate\obj\Debug\WebProjeTemplate.csprojResolveAssemblyReference.cache
+C:\Users\Emre_\Desktop\ClassDuzenlemeleri\WebProjeTemplate\obj\Debug\WebProjeTemplate.dll
+C:\Users\Emre_\Desktop\ClassDuzenlemeleri\WebProjeTemplate\obj\Debug\WebProjeTemplate.pdb
+C:\Users\asus\Desktop\ClassDuzenlemeleri\WebProjeTemplate\bin\ApplicationInsights.config
+C:\Users\asus\Desktop\ClassDuzenlemeleri\WebProjeTemplate\bin\roslyn\csc.exe
+C:\Users\asus\Desktop\ClassDuzenlemeleri\WebProjeTemplate\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\asus\Desktop\ClassDuzenlemeleri\WebProjeTemplate\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\asus\Desktop\ClassDuzenlemeleri\WebProjeTemplate\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\asus\Desktop\ClassDuzenlemeleri\WebProjeTemplate\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\asus\Desktop\ClassDuzenlemeleri\WebProjeTemplate\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\asus\Desktop\ClassDuzenlemeleri\WebProjeTemplate\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\asus\Desktop\ClassDuzenlemeleri\WebProjeTemplate\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\asus\Desktop\ClassDuzenlemeleri\WebProjeTemplate\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\asus\Desktop\ClassDuzenlemeleri\WebProjeTemplate\bin\roslyn\vbc.exe
+C:\Users\asus\Desktop\ClassDuzenlemeleri\WebProjeTemplate\bin\roslyn\VBCSCompiler.exe
+C:\Users\asus\Desktop\ClassDuzenlemeleri\WebProjeTemplate\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\asus\Desktop\ClassDuzenlemeleri\WebProjeTemplate\bin\WebProjeTemplate.dll.config
+C:\Users\asus\Desktop\ClassDuzenlemeleri\WebProjeTemplate\bin\WebProjeTemplate.dll
+C:\Users\asus\Desktop\ClassDuzenlemeleri\WebProjeTemplate\bin\WebProjeTemplate.pdb
+C:\Users\asus\Desktop\ClassDuzenlemeleri\WebProjeTemplate\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\asus\Desktop\ClassDuzenlemeleri\WebProjeTemplate\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\asus\Desktop\ClassDuzenlemeleri\WebProjeTemplate\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\asus\Desktop\ClassDuzenlemeleri\WebProjeTemplate\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\asus\Desktop\ClassDuzenlemeleri\WebProjeTemplate\bin\Microsoft.AI.Web.dll
+C:\Users\asus\Desktop\ClassDuzenlemeleri\WebProjeTemplate\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\asus\Desktop\ClassDuzenlemeleri\WebProjeTemplate\bin\Microsoft.ApplicationInsights.dll
+C:\Users\asus\Desktop\ClassDuzenlemeleri\WebProjeTemplate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\asus\Desktop\ClassDuzenlemeleri\WebProjeTemplate\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\asus\Desktop\ClassDuzenlemeleri\WebProjeTemplate\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\asus\Desktop\ClassDuzenlemeleri\WebProjeTemplate\bin\Microsoft.AI.Web.xml
+C:\Users\asus\Desktop\ClassDuzenlemeleri\WebProjeTemplate\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\asus\Desktop\ClassDuzenlemeleri\WebProjeTemplate\bin\Microsoft.ApplicationInsights.xml
+C:\Users\asus\Desktop\ClassDuzenlemeleri\WebProjeTemplate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\asus\Desktop\ClassDuzenlemeleri\WebProjeTemplate\obj\Debug\WebProjeTemplate.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\ClassDuzenlemeleri\WebProjeTemplate\obj\Debug\WebProjeTemplate.dll
+C:\Users\asus\Desktop\ClassDuzenlemeleri\WebProjeTemplate\obj\Debug\WebProjeTemplate.pdb
+C:\Users\asus\Desktop\Hastane Randevu Sistemi\WebProjeTemplate\bin\ApplicationInsights.config
+C:\Users\asus\Desktop\Hastane Randevu Sistemi\WebProjeTemplate\bin\roslyn\csc.exe
+C:\Users\asus\Desktop\Hastane Randevu Sistemi\WebProjeTemplate\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\asus\Desktop\Hastane Randevu Sistemi\WebProjeTemplate\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\asus\Desktop\Hastane Randevu Sistemi\WebProjeTemplate\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\asus\Desktop\Hastane Randevu Sistemi\WebProjeTemplate\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\asus\Desktop\Hastane Randevu Sistemi\WebProjeTemplate\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\asus\Desktop\Hastane Randevu Sistemi\WebProjeTemplate\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\asus\Desktop\Hastane Randevu Sistemi\WebProjeTemplate\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\asus\Desktop\Hastane Randevu Sistemi\WebProjeTemplate\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\asus\Desktop\Hastane Randevu Sistemi\WebProjeTemplate\bin\roslyn\vbc.exe
+C:\Users\asus\Desktop\Hastane Randevu Sistemi\WebProjeTemplate\bin\roslyn\VBCSCompiler.exe
+C:\Users\asus\Desktop\Hastane Randevu Sistemi\WebProjeTemplate\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\asus\Desktop\Hastane Randevu Sistemi\WebProjeTemplate\bin\WebProjeTemplate.dll.config
+C:\Users\asus\Desktop\Hastane Randevu Sistemi\WebProjeTemplate\bin\WebProjeTemplate.dll
+C:\Users\asus\Desktop\Hastane Randevu Sistemi\WebProjeTemplate\bin\WebProjeTemplate.pdb
+C:\Users\asus\Desktop\Hastane Randevu Sistemi\WebProjeTemplate\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\asus\Desktop\Hastane Randevu Sistemi\WebProjeTemplate\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\asus\Desktop\Hastane Randevu Sistemi\WebProjeTemplate\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\asus\Desktop\Hastane Randevu Sistemi\WebProjeTemplate\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\asus\Desktop\Hastane Randevu Sistemi\WebProjeTemplate\bin\Microsoft.AI.Web.dll
+C:\Users\asus\Desktop\Hastane Randevu Sistemi\WebProjeTemplate\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\asus\Desktop\Hastane Randevu Sistemi\WebProjeTemplate\bin\Microsoft.ApplicationInsights.dll
+C:\Users\asus\Desktop\Hastane Randevu Sistemi\WebProjeTemplate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\asus\Desktop\Hastane Randevu Sistemi\WebProjeTemplate\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\asus\Desktop\Hastane Randevu Sistemi\WebProjeTemplate\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\asus\Desktop\Hastane Randevu Sistemi\WebProjeTemplate\bin\Microsoft.AI.Web.xml
+C:\Users\asus\Desktop\Hastane Randevu Sistemi\WebProjeTemplate\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\asus\Desktop\Hastane Randevu Sistemi\WebProjeTemplate\bin\Microsoft.ApplicationInsights.xml
+C:\Users\asus\Desktop\Hastane Randevu Sistemi\WebProjeTemplate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\asus\Desktop\Hastane Randevu Sistemi\WebProjeTemplate\obj\Debug\WebProjeTemplate.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\Hastane Randevu Sistemi\WebProjeTemplate\obj\Debug\WebProjeTemplate.dll
+C:\Users\asus\Desktop\Hastane Randevu Sistemi\WebProjeTemplate\obj\Debug\WebProjeTemplate.pdb
+D:\ders\Projeler\Diş Randevu Sistemi\Hastane Randevu Sistemi\WebProjeTemplate\obj\Debug\WebProjeTemplate.dll
+D:\ders\Projeler\Diş Randevu Sistemi\Hastane Randevu Sistemi\WebProjeTemplate\obj\Debug\WebProjeTemplate.pdb
+D:\ders\Projeler\Diş Randevu Sistemi\Hastane Randevu Sistemi\WebProjeTemplate\bin\ApplicationInsights.config
+D:\ders\Projeler\Diş Randevu Sistemi\Hastane Randevu Sistemi\WebProjeTemplate\bin\roslyn\csc.exe
+D:\ders\Projeler\Diş Randevu Sistemi\Hastane Randevu Sistemi\WebProjeTemplate\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ders\Projeler\Diş Randevu Sistemi\Hastane Randevu Sistemi\WebProjeTemplate\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ders\Projeler\Diş Randevu Sistemi\Hastane Randevu Sistemi\WebProjeTemplate\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ders\Projeler\Diş Randevu Sistemi\Hastane Randevu Sistemi\WebProjeTemplate\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ders\Projeler\Diş Randevu Sistemi\Hastane Randevu Sistemi\WebProjeTemplate\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ders\Projeler\Diş Randevu Sistemi\Hastane Randevu Sistemi\WebProjeTemplate\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ders\Projeler\Diş Randevu Sistemi\Hastane Randevu Sistemi\WebProjeTemplate\bin\roslyn\System.Collections.Immutable.dll
+D:\ders\Projeler\Diş Randevu Sistemi\Hastane Randevu Sistemi\WebProjeTemplate\bin\roslyn\System.Reflection.Metadata.dll
+D:\ders\Projeler\Diş Randevu Sistemi\Hastane Randevu Sistemi\WebProjeTemplate\bin\roslyn\vbc.exe
+D:\ders\Projeler\Diş Randevu Sistemi\Hastane Randevu Sistemi\WebProjeTemplate\bin\roslyn\VBCSCompiler.exe
+D:\ders\Projeler\Diş Randevu Sistemi\Hastane Randevu Sistemi\WebProjeTemplate\bin\roslyn\VBCSCompiler.exe.config
+D:\ders\Projeler\Diş Randevu Sistemi\Hastane Randevu Sistemi\WebProjeTemplate\bin\WebProjeTemplate.dll.config
+D:\ders\Projeler\Diş Randevu Sistemi\Hastane Randevu Sistemi\WebProjeTemplate\bin\WebProjeTemplate.dll
+D:\ders\Projeler\Diş Randevu Sistemi\Hastane Randevu Sistemi\WebProjeTemplate\bin\WebProjeTemplate.pdb
+D:\ders\Projeler\Diş Randevu Sistemi\Hastane Randevu Sistemi\WebProjeTemplate\bin\Microsoft.AI.Agent.Intercept.dll
+D:\ders\Projeler\Diş Randevu Sistemi\Hastane Randevu Sistemi\WebProjeTemplate\bin\Microsoft.AI.DependencyCollector.dll
+D:\ders\Projeler\Diş Randevu Sistemi\Hastane Randevu Sistemi\WebProjeTemplate\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\ders\Projeler\Diş Randevu Sistemi\Hastane Randevu Sistemi\WebProjeTemplate\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\ders\Projeler\Diş Randevu Sistemi\Hastane Randevu Sistemi\WebProjeTemplate\bin\Microsoft.AI.Web.dll
+D:\ders\Projeler\Diş Randevu Sistemi\Hastane Randevu Sistemi\WebProjeTemplate\bin\Microsoft.AI.WindowsServer.dll
+D:\ders\Projeler\Diş Randevu Sistemi\Hastane Randevu Sistemi\WebProjeTemplate\bin\Microsoft.ApplicationInsights.dll
+D:\ders\Projeler\Diş Randevu Sistemi\Hastane Randevu Sistemi\WebProjeTemplate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ders\Projeler\Diş Randevu Sistemi\Hastane Randevu Sistemi\WebProjeTemplate\bin\Microsoft.AI.DependencyCollector.xml
+D:\ders\Projeler\Diş Randevu Sistemi\Hastane Randevu Sistemi\WebProjeTemplate\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\ders\Projeler\Diş Randevu Sistemi\Hastane Randevu Sistemi\WebProjeTemplate\bin\Microsoft.AI.Web.xml
+D:\ders\Projeler\Diş Randevu Sistemi\Hastane Randevu Sistemi\WebProjeTemplate\bin\Microsoft.AI.WindowsServer.xml
+D:\ders\Projeler\Diş Randevu Sistemi\Hastane Randevu Sistemi\WebProjeTemplate\bin\Microsoft.ApplicationInsights.xml
+D:\ders\Projeler\Diş Randevu Sistemi\Hastane Randevu Sistemi\WebProjeTemplate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ders\Projeler\Diş Randevu Sistemi\Hastane Randevu Sistemi\WebProjeTemplate\obj\Debug\WebProjeTemplate.csprojAssemblyReference.cache
+D:\ders\Projeler\Diş Randevu Sistemi\Hastane Randevu Sistemi\WebProjeTemplate\obj\Debug\WebProjeTemplate.csproj.CoreCompileInputs.cache
+D:\ders\Projeler\Diş Randevu Sistemi\Hastane Randevu Sistemi\WebProjeTemplate\obj\Debug\WebProjeTemplate.csproj.CopyComplete
+C:\Users\AbdullahSaitKoc\Desktop\DisHekimiRandevu-DentistAppointment-master\Hastane Randevu Sistemi\WebProjeTemplate\bin\ApplicationInsights.config
+C:\Users\AbdullahSaitKoc\Desktop\DisHekimiRandevu-DentistAppointment-master\Hastane Randevu Sistemi\WebProjeTemplate\bin\roslyn\csc.exe
+C:\Users\AbdullahSaitKoc\Desktop\DisHekimiRandevu-DentistAppointment-master\Hastane Randevu Sistemi\WebProjeTemplate\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\AbdullahSaitKoc\Desktop\DisHekimiRandevu-DentistAppointment-master\Hastane Randevu Sistemi\WebProjeTemplate\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AbdullahSaitKoc\Desktop\DisHekimiRandevu-DentistAppointment-master\Hastane Randevu Sistemi\WebProjeTemplate\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\AbdullahSaitKoc\Desktop\DisHekimiRandevu-DentistAppointment-master\Hastane Randevu Sistemi\WebProjeTemplate\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\AbdullahSaitKoc\Desktop\DisHekimiRandevu-DentistAppointment-master\Hastane Randevu Sistemi\WebProjeTemplate\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\AbdullahSaitKoc\Desktop\DisHekimiRandevu-DentistAppointment-master\Hastane Randevu Sistemi\WebProjeTemplate\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\AbdullahSaitKoc\Desktop\DisHekimiRandevu-DentistAppointment-master\Hastane Randevu Sistemi\WebProjeTemplate\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\AbdullahSaitKoc\Desktop\DisHekimiRandevu-DentistAppointment-master\Hastane Randevu Sistemi\WebProjeTemplate\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\AbdullahSaitKoc\Desktop\DisHekimiRandevu-DentistAppointment-master\Hastane Randevu Sistemi\WebProjeTemplate\bin\roslyn\vbc.exe
+C:\Users\AbdullahSaitKoc\Desktop\DisHekimiRandevu-DentistAppointment-master\Hastane Randevu Sistemi\WebProjeTemplate\bin\roslyn\VBCSCompiler.exe
+C:\Users\AbdullahSaitKoc\Desktop\DisHekimiRandevu-DentistAppointment-master\Hastane Randevu Sistemi\WebProjeTemplate\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\AbdullahSaitKoc\Desktop\DisHekimiRandevu-DentistAppointment-master\Hastane Randevu Sistemi\WebProjeTemplate\bin\WebProjeTemplate.dll.config
+C:\Users\AbdullahSaitKoc\Desktop\DisHekimiRandevu-DentistAppointment-master\Hastane Randevu Sistemi\WebProjeTemplate\bin\WebProjeTemplate.dll
+C:\Users\AbdullahSaitKoc\Desktop\DisHekimiRandevu-DentistAppointment-master\Hastane Randevu Sistemi\WebProjeTemplate\bin\WebProjeTemplate.pdb
+C:\Users\AbdullahSaitKoc\Desktop\DisHekimiRandevu-DentistAppointment-master\Hastane Randevu Sistemi\WebProjeTemplate\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\AbdullahSaitKoc\Desktop\DisHekimiRandevu-DentistAppointment-master\Hastane Randevu Sistemi\WebProjeTemplate\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\AbdullahSaitKoc\Desktop\DisHekimiRandevu-DentistAppointment-master\Hastane Randevu Sistemi\WebProjeTemplate\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\AbdullahSaitKoc\Desktop\DisHekimiRandevu-DentistAppointment-master\Hastane Randevu Sistemi\WebProjeTemplate\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\AbdullahSaitKoc\Desktop\DisHekimiRandevu-DentistAppointment-master\Hastane Randevu Sistemi\WebProjeTemplate\bin\Microsoft.AI.Web.dll
+C:\Users\AbdullahSaitKoc\Desktop\DisHekimiRandevu-DentistAppointment-master\Hastane Randevu Sistemi\WebProjeTemplate\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\AbdullahSaitKoc\Desktop\DisHekimiRandevu-DentistAppointment-master\Hastane Randevu Sistemi\WebProjeTemplate\bin\Microsoft.ApplicationInsights.dll
+C:\Users\AbdullahSaitKoc\Desktop\DisHekimiRandevu-DentistAppointment-master\Hastane Randevu Sistemi\WebProjeTemplate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\AbdullahSaitKoc\Desktop\DisHekimiRandevu-DentistAppointment-master\Hastane Randevu Sistemi\WebProjeTemplate\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\AbdullahSaitKoc\Desktop\DisHekimiRandevu-DentistAppointment-master\Hastane Randevu Sistemi\WebProjeTemplate\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\AbdullahSaitKoc\Desktop\DisHekimiRandevu-DentistAppointment-master\Hastane Randevu Sistemi\WebProjeTemplate\bin\Microsoft.AI.Web.xml
+C:\Users\AbdullahSaitKoc\Desktop\DisHekimiRandevu-DentistAppointment-master\Hastane Randevu Sistemi\WebProjeTemplate\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\AbdullahSaitKoc\Desktop\DisHekimiRandevu-DentistAppointment-master\Hastane Randevu Sistemi\WebProjeTemplate\bin\Microsoft.ApplicationInsights.xml
+C:\Users\AbdullahSaitKoc\Desktop\DisHekimiRandevu-DentistAppointment-master\Hastane Randevu Sistemi\WebProjeTemplate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\AbdullahSaitKoc\Desktop\DisHekimiRandevu-DentistAppointment-master\Hastane Randevu Sistemi\WebProjeTemplate\obj\Debug\WebProjeTemplate.csprojAssemblyReference.cache
+C:\Users\AbdullahSaitKoc\Desktop\DisHekimiRandevu-DentistAppointment-master\Hastane Randevu Sistemi\WebProjeTemplate\obj\Debug\WebProjeTemplate.csproj.CoreCompileInputs.cache
+C:\Users\AbdullahSaitKoc\Desktop\DisHekimiRandevu-DentistAppointment-master\Hastane Randevu Sistemi\WebProjeTemplate\obj\Debug\WebProjeTemplate.csproj.CopyComplete
+C:\Users\AbdullahSaitKoc\Desktop\DisHekimiRandevu-DentistAppointment-master\Hastane Randevu Sistemi\WebProjeTemplate\obj\Debug\WebProjeTemplate.dll
+C:\Users\AbdullahSaitKoc\Desktop\DisHekimiRandevu-DentistAppointment-master\Hastane Randevu Sistemi\WebProjeTemplate\obj\Debug\WebProjeTemplate.pdb
+C:\Users\AbdullahSaitKoc\Desktop\HASTANE RANDEVU SİSTEMİ\Hastane Randevu Sistemi\WebProjeTemplate\bin\ApplicationInsights.config
+C:\Users\AbdullahSaitKoc\Desktop\HASTANE RANDEVU SİSTEMİ\Hastane Randevu Sistemi\WebProjeTemplate\bin\roslyn\csc.exe
+C:\Users\AbdullahSaitKoc\Desktop\HASTANE RANDEVU SİSTEMİ\Hastane Randevu Sistemi\WebProjeTemplate\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\AbdullahSaitKoc\Desktop\HASTANE RANDEVU SİSTEMİ\Hastane Randevu Sistemi\WebProjeTemplate\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AbdullahSaitKoc\Desktop\HASTANE RANDEVU SİSTEMİ\Hastane Randevu Sistemi\WebProjeTemplate\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\AbdullahSaitKoc\Desktop\HASTANE RANDEVU SİSTEMİ\Hastane Randevu Sistemi\WebProjeTemplate\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\AbdullahSaitKoc\Desktop\HASTANE RANDEVU SİSTEMİ\Hastane Randevu Sistemi\WebProjeTemplate\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\AbdullahSaitKoc\Desktop\HASTANE RANDEVU SİSTEMİ\Hastane Randevu Sistemi\WebProjeTemplate\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\AbdullahSaitKoc\Desktop\HASTANE RANDEVU SİSTEMİ\Hastane Randevu Sistemi\WebProjeTemplate\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\AbdullahSaitKoc\Desktop\HASTANE RANDEVU SİSTEMİ\Hastane Randevu Sistemi\WebProjeTemplate\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\AbdullahSaitKoc\Desktop\HASTANE RANDEVU SİSTEMİ\Hastane Randevu Sistemi\WebProjeTemplate\bin\roslyn\vbc.exe
+C:\Users\AbdullahSaitKoc\Desktop\HASTANE RANDEVU SİSTEMİ\Hastane Randevu Sistemi\WebProjeTemplate\bin\roslyn\VBCSCompiler.exe
+C:\Users\AbdullahSaitKoc\Desktop\HASTANE RANDEVU SİSTEMİ\Hastane Randevu Sistemi\WebProjeTemplate\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\AbdullahSaitKoc\Desktop\HASTANE RANDEVU SİSTEMİ\Hastane Randevu Sistemi\WebProjeTemplate\bin\WebProjeTemplate.dll.config
+C:\Users\AbdullahSaitKoc\Desktop\HASTANE RANDEVU SİSTEMİ\Hastane Randevu Sistemi\WebProjeTemplate\bin\WebProjeTemplate.dll
+C:\Users\AbdullahSaitKoc\Desktop\HASTANE RANDEVU SİSTEMİ\Hastane Randevu Sistemi\WebProjeTemplate\bin\WebProjeTemplate.pdb
+C:\Users\AbdullahSaitKoc\Desktop\HASTANE RANDEVU SİSTEMİ\Hastane Randevu Sistemi\WebProjeTemplate\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\AbdullahSaitKoc\Desktop\HASTANE RANDEVU SİSTEMİ\Hastane Randevu Sistemi\WebProjeTemplate\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\AbdullahSaitKoc\Desktop\HASTANE RANDEVU SİSTEMİ\Hastane Randevu Sistemi\WebProjeTemplate\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\AbdullahSaitKoc\Desktop\HASTANE RANDEVU SİSTEMİ\Hastane Randevu Sistemi\WebProjeTemplate\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\AbdullahSaitKoc\Desktop\HASTANE RANDEVU SİSTEMİ\Hastane Randevu Sistemi\WebProjeTemplate\bin\Microsoft.AI.Web.dll
+C:\Users\AbdullahSaitKoc\Desktop\HASTANE RANDEVU SİSTEMİ\Hastane Randevu Sistemi\WebProjeTemplate\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\AbdullahSaitKoc\Desktop\HASTANE RANDEVU SİSTEMİ\Hastane Randevu Sistemi\WebProjeTemplate\bin\Microsoft.ApplicationInsights.dll
+C:\Users\AbdullahSaitKoc\Desktop\HASTANE RANDEVU SİSTEMİ\Hastane Randevu Sistemi\WebProjeTemplate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\AbdullahSaitKoc\Desktop\HASTANE RANDEVU SİSTEMİ\Hastane Randevu Sistemi\WebProjeTemplate\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\AbdullahSaitKoc\Desktop\HASTANE RANDEVU SİSTEMİ\Hastane Randevu Sistemi\WebProjeTemplate\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\AbdullahSaitKoc\Desktop\HASTANE RANDEVU SİSTEMİ\Hastane Randevu Sistemi\WebProjeTemplate\bin\Microsoft.AI.Web.xml
+C:\Users\AbdullahSaitKoc\Desktop\HASTANE RANDEVU SİSTEMİ\Hastane Randevu Sistemi\WebProjeTemplate\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\AbdullahSaitKoc\Desktop\HASTANE RANDEVU SİSTEMİ\Hastane Randevu Sistemi\WebProjeTemplate\bin\Microsoft.ApplicationInsights.xml
+C:\Users\AbdullahSaitKoc\Desktop\HASTANE RANDEVU SİSTEMİ\Hastane Randevu Sistemi\WebProjeTemplate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\AbdullahSaitKoc\Desktop\HASTANE RANDEVU SİSTEMİ\Hastane Randevu Sistemi\WebProjeTemplate\obj\Debug\WebProjeTemplate.csprojAssemblyReference.cache
+C:\Users\AbdullahSaitKoc\Desktop\HASTANE RANDEVU SİSTEMİ\Hastane Randevu Sistemi\WebProjeTemplate\obj\Debug\WebProjeTemplate.csproj.CoreCompileInputs.cache
+C:\Users\AbdullahSaitKoc\Desktop\HASTANE RANDEVU SİSTEMİ\Hastane Randevu Sistemi\WebProjeTemplate\obj\Debug\WebProjeTemplate.csproj.CopyComplete
+C:\Users\AbdullahSaitKoc\Desktop\HASTANE RANDEVU SİSTEMİ\Hastane Randevu Sistemi\WebProjeTemplate\obj\Debug\WebProjeTemplate.dll
+C:\Users\AbdullahSaitKoc\Desktop\HASTANE RANDEVU SİSTEMİ\Hastane Randevu Sistemi\WebProjeTemplate\obj\Debug\WebProjeTemplate.pdb
